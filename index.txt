@@ -1,1 +1,5 @@
 Léo est un homme aigri.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 624ac383491d34567e29bbe40dd5043d4e055279
